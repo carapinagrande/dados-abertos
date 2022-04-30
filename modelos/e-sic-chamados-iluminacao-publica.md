@@ -13,5 +13,9 @@ Colunas:
 - Bairro
 - CEP
 - Ponto de referência
-- Informações adiconais
+- Informações adicionais
 - Observações
+
+Se possível, demais dados relacionados ao chamados de controle interno que não são exibidos no formulário de abertura de chamado listados abaixo e divulgado pela prefeitura na seguinte noticia: http://www.serra.es.gov.br/noticias/pedidos-de-iluminacao-publica-pela-internet-e-telefone-na-serra 
+- http://salvadoreng.com.br/chamado-serra/
+- http://salvadoreng.com.br/chamado-guarapari/
