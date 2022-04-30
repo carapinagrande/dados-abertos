@@ -1,8 +1,8 @@
 # Modelo para e-SIC: Dados dos chamados relacionados a iluminação pública
 
 Gostaria de solicitar uma planilha os seguintes dados:
-Periódo: Ultimos 5 anos
-Granunalidade: Cada linha da planilha representa um chamado aberto
+Período: Últimos 5 anos
+Granularidade: Cada linha da planilha representa um chamado aberto
 Filtros:
  - Chamados atendidos
  - Chamados não atendidos
